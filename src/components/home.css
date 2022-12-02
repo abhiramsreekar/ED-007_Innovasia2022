@@ -1,0 +1,43 @@
+*{
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.homePage{
+    height:100vh;
+    color: white;
+}
+
+.c1{
+    /* padding-top:4rem; */
+    /* display: */
+    padding:2%;
+    padding-top: 6%;
+    margin:3%;
+    width:75vh;
+    font-size: 2.8rem;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.c1 .coltext{
+    margin-top: 3%;
+    font-size:1rem;
+}
+
+.c2{
+    padding-top:7%;
+    margin:1%;
+}
+.register{
+    font-size: 1.7rem;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.register button{
+    background-color: rgb(255,193,7);
+    border-radius: 1rem;
+    font-size: 1.3rem;
+    padding:4%;
+}
